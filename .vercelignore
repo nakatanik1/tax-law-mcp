@@ -1,5 +1,6 @@
-src/
 dist/
 tests/
 scripts/
 node_modules/
+src/index.ts
+src/server.ts
